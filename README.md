@@ -1,16 +1,27 @@
-## Hi there 👋
+# Kay Ong
 
-<!--
-**kay-ong/kay-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Business and Operational AI Architect specializing in event-driven middleware, deterministic data plumbing, and Multi-Agent Orchestration (MAO) for mid-market distribution networks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Systems & Architectural Focus
+
+I engineer active digital operators that sit directly in the cross-currents of mid-market physical operations. My work focuses on removing human administrative dependencies and locking down structural margins.
+
+* **Core Paradigms:** Event-Driven Architecture (EDA), Single Source of Truth (SSOT) Data Design, Multi-Agent Orchestration (MAO).
+* **System Integrations:** Deep-layer data plumbing across enterprise ERP, WMS, and IMS systems (NetSuite, SAP, custom middleware).
+* **Execution Logic:** Building stateless algorithmic agent networks bounded by rigid corporate governance rulesets over chat-box interfaces.
+
+---
+
+## 🏛️ Institutional Governance & Policy
+
+* **Advisory Seat:** Digitalization and AI Committee for the Association of Small & Medium Enterprises (ASME).
+* **Policy Strategy:** Authoring economic digitalization frameworks and technical playbooks for traditional mid-market enterprises transitioning into the agentic era.
+
+---
+
+## 🔗 Verified Authority Graph
+
+* **Apex Domain & Architectural Essays:** [kay-ong.com](https://kay-ong.com)
+* **Professional Network:** [LinkedIn](https://www.linkedin.com/in/kay-ong)
